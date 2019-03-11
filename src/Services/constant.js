@@ -1,0 +1,3 @@
+export const FORCE_UPDATE = 'FORCE_UPDATE';
+
+export const TOGGLE_UI_STATE = 'TOGGLE_UI_STATE';
